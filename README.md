@@ -54,13 +54,13 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-![Screenshot (31)](https://github.com/user-attachments/assets/bb3d15d1-0658-4751-8603-909755e4178b)
+![Screenshot (31)](https://github.com/user-attachments/assets/20db32aa-dc74-4db2-be1e-1f7ee00343e0)
 
 
 
 **RTL Schematic**
 
-![Screenshot (33)](https://github.com/user-attachments/assets/0dcdeb5f-36f0-450f-a8a6-7d10182a039b)
+![Screenshot (33)](https://github.com/user-attachments/assets/e906ad3e-f719-4136-b702-70aca25e7a0d)
 
 
 **Output/TIMING Waveform**
