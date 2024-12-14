@@ -1,3 +1,7 @@
+**NAME RANJANA R**
+
+**REF NO 24013649**
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -50,26 +54,17 @@ Figure -02 HALF Subtractor
 
 **Program:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-```
-module exp3(a,b,cy,sm,df,bo);
-input a,b;
-output sm,cy,df,bo;
-xor(sm,a,b);
-and(cy,a,b);
-xor(df,a,b);
-and(bo,~a,b);
-endmodule
-```
+![Screenshot (31)](https://github.com/user-attachments/assets/bb3d15d1-0658-4751-8603-909755e4178b)
+
 
 
 **RTL Schematic**
-![exp3a](https://github.com/user-attachments/assets/43a2d04a-416b-4790-a19d-bf8739018dc5)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/0dcdeb5f-36f0-450f-a8a6-7d10182a039b)
 
 
 **Output/TIMING Waveform**
-![exp3b](https://github.com/user-attachments/assets/6e47c4d1-ecfd-4d1f-879c-6f27b2a43f43)
-
+![Screenshot (32)](https://github.com/user-attachments/assets/4f27d076-987e-4b43-984e-1eb509441756)
 
 **Result:**
 
