@@ -2,7 +2,7 @@
 
 **REF NO 24013649**
 
-# HALF_ADDER_SUBTRACTOR
+# EXPERIMENT 3 HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
