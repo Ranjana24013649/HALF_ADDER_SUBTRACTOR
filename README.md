@@ -66,7 +66,9 @@ Figure -02 HALF Subtractor
 
 
 **Output/TIMING Waveform**
-![Screenshot (82)](https://github.com/user-attachments/assets/f7a0ecdc-b991-49ce-862f-ee6733010d75)
+![Screenshot (88)](https://github.com/user-attachments/assets/58bb45bd-ff5e-4f48-a03f-0da0f9f4d338)
 
 **Result:**
+
+Thus the program executed successfully.
 
