@@ -2,7 +2,7 @@
 
 **REF NO 24013649**
 
-# EXPERIMENT 3 HALF_ADDER_SUBTRACTOR
+# EXPERIMENT 3 IMPLEMENTATION OF HALF ADDER AND SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
@@ -64,7 +64,7 @@ Figure -02 HALF Subtractor
 
 
 **Output/TIMING Waveform**
-![Screenshot (32)](https://github.com/user-attachments/assets/4f27d076-987e-4b43-984e-1eb509441756)
+![Screenshot (82)](https://github.com/user-attachments/assets/f7a0ecdc-b991-49ce-862f-ee6733010d75)
 
 **Result:**
 
